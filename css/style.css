@@ -1,0 +1,28 @@
+ .block {
+    background-color: White;
+    opacity: .7;
+    color: DarkBlue;
+    padding: 50px;
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 15px;
+    font-size: 1.5em;
+    padding-bottom: 2%;
+    }
+  
+  .spacer {
+    padding: 3%;
+  }
+  
+  body {
+    background: url('http://www.geek.com/wp-content/uploads/2014/08/twitch-590x330.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+a{
+  color:Darkblue;
+}
